@@ -1,0 +1,3 @@
+[submodule "EasyEdit"]
+	path = EasyEdit
+	url = https://github.com/zjunlp/EasyEdit.git

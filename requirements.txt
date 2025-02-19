@@ -1,0 +1,3 @@
+-r EasyEdit/requirements.txt
+baukit @ git+https://github.com/davidbau/baukit@9d51abd51ebf29769aecc38c4cbef459b731a36e
+datasets==3.3.1

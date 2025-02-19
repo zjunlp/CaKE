@@ -1,0 +1,1 @@
+python test_cake.py --editing_method CAKE --datatype MQuAKE-CF-3k --model_type qwen2.5-7b
